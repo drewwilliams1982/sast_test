@@ -13,7 +13,7 @@ namespace sast.Controllers
             return View();
         }
 
-        public ActionResult Test(string unsafeSql)
+        public ActionResult DoIt(string unsafeSql)
         {
             var service = new DummyService();
 
