@@ -1,6 +1,6 @@
 ﻿using System.Data.SqlClient;
 
-namespace sast_test.Controllers
+namespace sast.Controllers
 {
     internal class DummyService
     {

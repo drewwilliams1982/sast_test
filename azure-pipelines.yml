@@ -23,8 +23,8 @@ jobs:
     buildPlatform: $(buildPlatform)
     sonar:
       execute: $(executeSonar)
-      projectKey: 'sast_test'
-      projectName: 'sast_test'
+      projectKey: 'sast'
+      projectName: 'sast'
     nuget:
       generatePackages: true
       pushPackages: true

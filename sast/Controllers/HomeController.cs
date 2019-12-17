@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace sast_test.Controllers
+namespace sast.Controllers
 {
     public class HomeController : Controller
     {

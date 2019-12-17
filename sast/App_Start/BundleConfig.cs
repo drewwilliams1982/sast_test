@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace sast_test
+namespace sast
 {
     public class BundleConfig
     {
